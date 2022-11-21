@@ -10,6 +10,7 @@ Summary: RT Topology Library
 URL: https://git.osgeo.org/gitea/rttopo/librttopo
 License: GPLv2
 Group: System/Libraries
+BuildRequires: pkgconfig(geos)
 
 %description
 The RT Topology Library exposes an API to create and manage standard
