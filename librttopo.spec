@@ -4,7 +4,7 @@
 
 Name: librttopo
 Version: 1.1.0
-Release: 1
+Release: 2
 Source0: https://git.osgeo.org/gitea/rttopo/librttopo/archive/librttopo-%{version}.tar.gz
 Summary: RT Topology Library
 URL: https://git.osgeo.org/gitea/rttopo/librttopo
